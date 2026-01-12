@@ -1,3 +1,3 @@
-# Baisic Repository Template
+# Basic Repository Template
 
 ## Overview
